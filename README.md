@@ -15,22 +15,22 @@ Experiments are done for moving mnist and stochastic moving mnist
 # Results 
 ### Moving MNIST
 - Loss of Training
-![](./pictures/Loss_curve.png')
+![](./pictures/Loss_curve.png)
 
 - Reconstruction results
- - original
- ![](./pictures/original_r_image.gif')
+  - original
+ ![](./pictures/original_r_image.gif)
 
- - reconstruction
- ![](./pictures/reconstruction_image.gif')
+  - reconstruction
+ ![](./pictures/reconstruction_image.gif)
 
 - Generation results
 
- - original
- ![](./pictures/original_image.gif')
+  - original
+ ![](./pictures/original_image.gif)
 
- - reconstruction
- ![](./pictures/generate_image.gif')
+  - reconstruction
+ ![](./pictures/generate_image.gif)
  
 ### Stochastic Moving MNIST
  TBA...
