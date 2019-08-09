@@ -20,21 +20,17 @@ Experiments are done for moving mnist and stochastic moving mnist
 
 - Reconstruction results
   - original
-
 ![](./pictures/original_r_image.gif)
 
   - reconstruction
-
 ![](./pictures/reconstruction_image.gif)
 
 - Generation results
 
   - original
-
 ![](./pictures/original_image.gif)
 
   - reconstruction
-
 ![](./pictures/generate_image.gif)
  
 ### Stochastic Moving MNIST
